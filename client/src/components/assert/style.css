@@ -1,0 +1,33 @@
+.card{
+    max-width: 100%;
+}
+
+#labbtn{
+    width: 200px;
+    height: 30px;
+    background:white;
+    color: black;
+    border: 1px;
+    border-style: solid;
+    border-color: seashell;
+}
+.btn-group a{
+    color: black;
+}
+.btn-group p{
+    color: black;
+    margin-bottom: 50px;
+
+}
+
+.btn-group button{
+    margin-bottom: 10px;
+}
+
+.ourfooter{
+    background-color: #838383;
+}
+
+#border{
+    width: 100%;
+}
